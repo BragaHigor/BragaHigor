@@ -1,4 +1,4 @@
-## Olá eu sou o Higor, estudante de programação e tecnologia! 👋
+## Hello, I'm Higor, programming and technology student! 👋
 
 <br>
 
@@ -8,7 +8,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BragaHigor&layout=compact&langs_count=7&theme=react"/>
 </div>
 <br>
- Tecnologias que estudo e utilizo no meu dia a dia ✍️
+ Technologies I study and use in my day ✍️
 <br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Braga-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
