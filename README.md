@@ -2,8 +2,8 @@
 <br>
 <div align="center">
   <a href="https://github.com/BragaHigor">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=HigorBraga&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorBraga&layout=compact&langs_count=7&theme=react"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=BragaHigor&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BragaHigor&layout=compact&langs_count=7&theme=react"/>
 </div>
 <br>
  Tecnologias que estudo e utilizo no meu dia a dia ✍️
