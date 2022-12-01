@@ -11,7 +11,7 @@
  Technologies I study and use in my day ✍️
 <br>
 <div style="display: inline_block"><br>
- 
+  <a href="https://github.com/BragaHigor">
   <img align="center" alt="Braga-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Braga-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Braga-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -22,7 +22,7 @@
   <img align="center" alt="Braga-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Braga-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
   <img align="center" alt="Braga-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/fmazToDCmlsAAAAd/rock-lee-training.gif?width=676&height=676">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/fmazToDCmlsAAAAd/rock-lee-training.gif?width=676&height=676"></a> 
 </div>
   
   ##
