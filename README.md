@@ -19,7 +19,7 @@
   <a href="https://github.com/BragaHigor" target="_blank" rel="noopener noreferrer"><img align="center" alt="Braga-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"></a>
   <a href="https://github.com/BragaHigor" target="_blank" rel="noopener noreferrer"><img align="center" alt="Braga-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"></a>
  <a href="https://github.com/BragaHigor" target="_blank" rel="noopener noreferrer"> <img align="center" alt="Braga-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"></a>
-  <a href="https://github.com/BragaHigor" target="_blank" rel="noopener noreferrer"><img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/fmazToDCmlsAAAAd/rock-lee-training.gif?width=676&height=676"></a> 
+  <a href="https://github.com/BragaHigor" target="_blank" rel="noopener noreferrer"><img align="right" alt="Braga-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/fmazToDCmlsAAAAd/rock-lee-training.gif?width=676&height=676"></a> 
 </div>
   
   ##
