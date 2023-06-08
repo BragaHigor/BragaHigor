@@ -15,9 +15,9 @@
   <a href="https://github.com/BragaHigor" target="_blank" rel="noopener noreferrer"><img align="center" alt="Braga-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="https://github.com/BragaHigor" target="_blank" rel="noopener noreferrer"><img align="center" alt="Braga-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <a href="https://github.com/BragaHigor" target="_blank" rel="noopener noreferrer"><img align="center" alt="Braga-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></a>
- <a href="https://github.com/BragaHigor" target="_blank" rel="noopener noreferrer"> <img align="center" alt="Braga-Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg"></a>
-  <a href="https://github.com/BragaHigor" target="_blank" rel="noopener noreferrer"><img align="center" alt="Braga-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"></a>
-  <a href="https://github.com/BragaHigor" target="_blank" rel="noopener noreferrer"><img align="right" alt="Braga-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/fmazToDCmlsAAAAd/rock-lee-training.gif?width=676&height=676"></a> 
+<!--  <a href="https://github.com/BragaHigor" target="_blank" rel="noopener noreferrer"> <img align="center" alt="Braga-Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg"></a>
+  <a href="https://github.com/BragaHigor" target="_blank" rel="noopener noreferrer"><img align="center" alt="Braga-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"></a> -->
+  <a href="https://github.com/BragaHigor" target="_blank" rel="noopener noreferrer"><img align="right" alt="Braga-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/abfF-YQ167UAAAAd/rock-lee-weights.gif"></a> 
 </div>
   
   ##
