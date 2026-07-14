@@ -22,7 +22,7 @@ Rede social de fotos construída com Next.js e TypeScript. Inclui autenticação
 
 Site para apresentação de filhotes, com páginas dinâmicas, galeria, filtros, animações e contato integrado pelo WhatsApp.
 
-[Aplicação](https://filhotes-encinas-braga.vercel.app/) · [Código](https://github.com/BragaHigor/border-collie-puppies)
+[Aplicação](https://border-collie-puppies.vercel.app/) · [Código](https://github.com/BragaHigor/border-collie-puppies)
 
 ## Tecnologias
 
